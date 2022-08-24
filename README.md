@@ -1,2 +1,2 @@
 # rock-paper-scissors
-This is my first JavaScript program. Version 1. 
+This is my first JavaScript program. Version 2.
